@@ -2,7 +2,7 @@
    <h1> MiniAiLive ID Document Recognition Windows SDK </h1>
    <img src=https://miniai.live/wp-content/uploads/2024/02/logo_name-1-768x426-1.png alt="MiniAiLive Logo"
    width="300">
-</div>
+</div
 
 ## Welcome to the [MiniAiLive](https://www.miniai.live/)!
 Welcome to the ID Document Recognition SDK! This SDK provides powerful tools for recognizing and extracting information from ID documents. The SDK is available for both Windows and Linux platforms and includes an API for integration.
